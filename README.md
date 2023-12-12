@@ -77,7 +77,7 @@ Create a `.env` file in the server directory and add the following configuration
 
 ### Run the Server
 
-Start the server - ###npm start
+Start the server - **npm start**
 
 The server will start at http://localhost:3001.
 
@@ -98,7 +98,7 @@ const API_URL = 'http://localhost:3001/api/students';
 
 ### Run the Client
 
-Start the client - ###npm start
+Start the client - **npm start**
 
 The client will be accessible at http://localhost:3000.
 
