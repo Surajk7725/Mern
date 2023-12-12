@@ -57,7 +57,7 @@ Follow these steps to set up and run the MERN stack student CRUD application.
 2. cd mern-student-crud
 
 
-###Install Server Dependencies
+### Install Server Dependencies
 
 Navigate to the server directory and install the necessary dependencies.
 
@@ -72,9 +72,8 @@ Start your MongoDB server.
 
 Create a `.env` file in the server directory and add the following configuration. Adjust the `PORT` and `MONGODB_URI` as needed.
 
-```env
-PORT=3001
-MONGODB_URI=mongodb://localhost:27017/studentDB
+1. PORT=3001
+2. MONGODB_URI=mongodb://localhost:27017/studentDB
 
 ### Run the Server
 
@@ -94,7 +93,6 @@ Navigate to the client directory and install the required dependencies.
 
 In the `client/src/config.js` file, update the `API_URL` to match your server's URL.
 
-```javascript
 const API_URL = 'http://localhost:3001/api/students';
 
 
