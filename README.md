@@ -53,23 +53,20 @@ Follow these steps to set up and run the MERN stack student CRUD application.
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/your-username/mern-student-crud.git
-cd mern-student-crud
+1. git clone https://github.com/your-username/mern-student-crud.git
+2. cd mern-student-crud
 
-```bash
 
 ###Install Server Dependencies
 
 Navigate to the server directory and install the necessary dependencies.
 
-```bash
-cd server
-npm install
+1. cd server
+2. npm install
 
 ### Set Up MongoDB
 
-1. Start your MongoDB server.
+Start your MongoDB server.
 
 ### Configure the Server
 
@@ -81,10 +78,7 @@ MONGODB_URI=mongodb://localhost:27017/studentDB
 
 ### Run the Server
 
-Start the server.
-
-```bash
-npm start
+Start the server - ###npm start
 
 The server will start at http://localhost:3001.
 
@@ -92,9 +86,8 @@ The server will start at http://localhost:3001.
 
 Navigate to the client directory and install the required dependencies.
 
-```bash
-cd ../client
-npm install
+1. cd ../client
+2. npm install
 
 
 ### Configure the Client
@@ -107,10 +100,7 @@ const API_URL = 'http://localhost:3001/api/students';
 
 ### Run the Client
 
-Start the client.
-
-```bash
-npm start
+Start the client - ###npm start
 
 The client will be accessible at http://localhost:3000.
 
