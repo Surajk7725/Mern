@@ -53,7 +53,7 @@ Follow these steps to set up and run the MERN stack student CRUD application.
 
 ### Clone the Repository
 
-1. git clone https://github.com/your-username/mern-student-crud.git
+1. git clone [https://github.com/your-username/mern-student-crud.git](https://github.com/Surajk7725/Mern.git)
 2. cd mern-student-crud
 
 
