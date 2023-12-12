@@ -1,6 +1,6 @@
 # Student Crud Operations in MERN
 
-Short description or tagline about your project.
+This repository contains a simple web application built with the MERN (MongoDB, Express.js, React, Node.js) stack, allowing users to perform CRUD (Create, Read, Update, Delete) operations on student records.
 
 ## Table of Contents
 
